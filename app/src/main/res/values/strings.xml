@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="dodany_text">DODANY TEXT</string>
+    <string name="przycisk">Przycisk</string>
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+    <string name="nastepne">Nastepne</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="punctation">Zdobyte punkty: 0/0</string>
+    
+    <string name="q_pizza">Pizza jest jedzeniem bogów</string>
+    <string name="q_hawajska">Hawajska to dzieło szatana</string>
+    <string name="q_survive">Człowiek może się odżywiać tylko pizza</string>
+    <string name="q_like">Autor tego quiza lubi jeść pizzę</string>
+    <string name="q_forgive">Zbeszczeszczenie pizzy jest wybaczalne</string>
+    <string name="q_combination">Połączenie pizzy i ananasa to dobry pomysł</string>
+
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+
+</resources>
