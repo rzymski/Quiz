@@ -23,5 +23,6 @@
     <string name="wantSeeAnswer">Czy napewno chcesz zobaczyc podpowiedz?</string>
     <string name="button_ShowPrompt">Pokaz odpowiedz</string>
     <string name="answer_was_shown">Odpowiedź zostala juz pokazana. Oszuście jeden!</string>
+    <string name="backButton">Powrot do pytań</string>
 
 </resources>

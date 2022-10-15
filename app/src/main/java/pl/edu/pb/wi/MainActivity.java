@@ -97,8 +97,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String KEY_ACTUAL_POINTS = "actualPoints";
     private static final String KEY_GIVEN_ANSWERS = "givenAnswers";
     private static final String KEY_GIVEN_LAST_ANSWER = "givenLastAnswer";
-    public static final String KEY_EXTRA_ANSWER = "pl.edu.pb.wi.quiz.correctAnswer";
-    public static final int REQUEST_CODE_PROMPT = 0;
+    public static final String KEY_EXTRA_ANSWER = "correctAnswer";
     ActivityResultLauncher<Intent> PromptActivityResultLauncher;
 
     @Override
