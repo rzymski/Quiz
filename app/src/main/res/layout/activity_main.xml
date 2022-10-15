@@ -56,12 +56,26 @@
         android:textSize="24sp"
         android:textStyle="bold" />
 
-    <Button
-        android:id="@+id/promptButton"
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="10dp"
-        android:text="@string/button_ShowPrompt"
-        android:textSize="16sp" />
+        android:orientation="vertical">
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:scrollbarSize="100dp" />
+
+        <Button
+            android:id="@+id/promptButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:padding="10dp"
+            android:text="@string/button_ShowPrompt"
+            android:textSize="16sp" />
+
+    </LinearLayout>
 
 </LinearLayout>
